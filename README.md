@@ -3,6 +3,4 @@
 
 ### Interfaz de Usuario con React:
 
-- Crea componentes para:
-  - Registro de usuario.
-  - Inicio de sesión.
+Crear una nueva rama con su nombre y trabajar dentro de ella
