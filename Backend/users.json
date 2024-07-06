@@ -1,14 +1,14 @@
 [
   {
-    "username": "admin",
+    "username": "admin@gmail.com",
     "password": "1234"
   },
   {
-    "username": "personal01",
+    "username": "personal@hotmail.com",
     "password": "1234a"
   },
   {
-    "username": "user",
+    "username": "user@outlook.es",
     "password": "1234"
   }
 ]
